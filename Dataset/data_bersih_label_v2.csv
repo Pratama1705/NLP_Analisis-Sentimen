@@ -1,0 +1,448 @@
+tweet_clean,label
+"['ken', 'tau', 'ranking', 'pasca', 'thomas', 'uber', 'cup', 'alangkah', 'adminnya', 'cantum', 'prediksi', 'ranking']",P
+"['bravo', 'india', 'winners', 'thomas', 'cup', 'champions', 'indonesia', 'x', 'china', 'x', 'malaysia', 'x', 'denmark', 'x', 'japan', 'x']",NT
+"['lee', 'chong', 'wei', 'ga', 'juara', 'thomas', 'cup', 'koq', 'sea', 'games', 'individual', 'medali', 'perunggu', 'taufik', 'sikap', 'capai', 'multi', 'event', 'lcw', 'level', 'sea', 'games', 'taufik', 'juara', 'usia']",P
+"['udh', 'gk', 'benernya', 'mata', 'kyknya', 'udh', 'gak', 'peduli', 'ngasih', 'apresiasi', 'murni', 'aja', 'gk', 'minimal', 'pas', 'juara', 'thomas', 'cup', 'kemarin', 'gimna', 'simpati', 'nerima', 'oceh']",N
+"['iya', 'zelin', 'resiana', 'ex', 'wd', 'juara', 'uber', 'cup', 'istri', 'joko', 'suprianto', 'ex', 'ms', 'juara', 'dunia', 'thomas', 'cup']",NT
+"['tuju', 'kalo', 'emang', 'ms', 'ws', 'urgent', 'diperbaikin', 'cap', 'buruk', 'sih', 'gue', 'final', 'thomas', 'cup', 'lohhh']",N
+"['hahaha', 'kaya', 'siy', 'boro', 'yaa', '', 'tau', 'sbagai', 'urus', 'klub', 'sgs', 'ga', 'ngasih', 'bonus', 'main', 'nya', 'menang', 'thomas', 'cup', 'kemaren', '', 'ginting', 'fajar', 'cm', 'nelen', 'ludah', 'liat', 'temen', 'nya', 'kasih', 'bonus', 'dr', 'klub', 'nya']",N
+"['kitne', 'over', 'ka', 'hota', 'hai', 'ye', 'thomas', 'cup']",NT
+"['kyknya', 'sih', 'udh', 'gk', 'dipeduliin', 'lejen', 'ngomong', 'karna', 'lakuin', 'ulang', 'dlam', 'kondisi', 'juara', 'thomas', 'cup', 'embel', 'begitu']",N
+"['salah', 'patut', 'petronas', 'kena', 'tabur', 'duit', 'bam', 'urus', 'tinggi', 'bam', 'kesan', 'menang', 'thomas', 'cup']",NT
+"['thomas', 'cup', 'wajar', 'sih', 'wktu', 'indonesia', 'n', 'china', 'msh', 'struggle', 'urus', 'dlm', 'negeri', 'blm', 'mikirin', 'bulutangkis', '']",P
+"['thomas', 'cup', 'shesar', 'hiren', 'rhustavito', 'bawa', 'indonesia', 'babak', 'final', 'lawan', 'hadap']",P
+"['udah', 'dipatahin', 'thomas', 'cup', 'dipatahin', 'sea', 'games']",N
+"['untung', 'gak', 'nonton', 'thomas', 'cup', 'kalah', 'telak', 'india', 'skrg', '']",N
+"['wajar', 'ya', 'kelas', 'thomas', 'cup', 'tambah', 'uda', 'jd', 'senang', 'liat', 'bagi', 'rezeki', 'negara', 'aja', 'china', 'uda', 'kali', 'puas', 'qf', 'tp', 'juara', 'nya', 'juara', 'tahan', 'indonesiaaa']",P
+"['yups', 'cetak', 'sejarah', 'kali', 'menang', 'thomas', 'cup', 'thn', 'gue', 'main', 'india', 'kali', 'lipat', 'motivasi', 'bt', 'menangin', 'gelar', 'juara', 'regu', 'raih', 'bilang', 'generasi', 'emas']",P
+"['lapang', 'licin', 'tanding', 'thomas', 'cup']",NT
+"['langgar', 'kode', 'etik', 'atur', 'asosiasi', 'pas', 'thomas', 'cup']",NT
+"['partai', 'tentu', 'juara', 'sih', 'indonesia', 'menang', 'partai', 'indonesia', 'juara', 'hilang', 'salah', 'satu', 'kalah', 'dua', 'india', 'juara', 'thomas', 'cup', 'kali']",NT
+"['halo', 'gold', 'medalist', 'uber', 'cup', 'gamau', 'ah', 'gagal', 'sumbang', 'poin', 'canda', 'maaf', 'gold', 'medalist', 'thomas', 'cup', 'ga', 'janji', 'bareng', 'apa', 'warna', 'medali', 'balas', 'senyum', 'seyoung', 'lakshya']",NT
+"['last', 'thomas', 'cup', 'koh', 'bareng', 'koh', 'bosen', 'udah', 'x', 'capt', 'bestie', 'gapapa', 'capt', 'sinyo', 'anak', 'buah', 'dapet', 'goodie', 'bag', 'lv', 'haha', 'donk', 'ko', 'grup', 'obrol', 'ganda', 'putra', 'ramai', 'malam']",NT
+"['tarik', 'final', 'thomas', 'cup', 'kemarin', 'indonesia', 'vs', 'india', 'main', 'cepat', 'puas', 'hasil', 'selesai', 'tanding', 'fokus', 'tiap', 'momentnya']",P
+"['kyknya', 'ngikutin', 'dr', 'pas', 'hayom', 'kalah', 'thomas', 'cup', 'deh aku', 'nonton', 'tuc', 'tp', 'dlu', 'msh', 'thn', 'hayom', 'sempet', 'dibully', 'tp', 'bullying', 'makinn', 'parah']",NT
+"['alhamdulillah', 'aamiin', 'makasih', 'win', 'sempet', 'nang', 'space', 'moga', 'hasil', 'sesuai', 'doa', 'tim', 'thomas', 'cup', 'indonesia', 'harap', 'insya', 'allah', 'allah', 'bantu']",P
+"['asli', 'sih', 'thomas', 'cup', 'bekas', 'banget', 'main', 'ya', 'ihsan', 'gak', 'tidur', 'keren', 'bgt', 'sih', 'indonesia', 'turun', 'ms', 'muda', 'dah', 'alam', 'turnamen', 'jg', 'kmrn', 'thomas', 'cup', 'udah', 'bgt']",P
+"['batc', 'putra', 'thomas', 'cup', 'sea', 'games', 'regu', 'putra', 'putus', 'event', 'juara', 'tahan', 'gpp']",NT
+"['bangun', 'tidur', 'asa', 'nyesek', 'thomas', 'cup', 'kemaren', 'blm', 'move', 'on', 'sumpah']",N
+"['bikin', 'badmood', 'yak', 'abis', 'sedih', 'karna', 'thomas', 'cup', 'diobatin', 'sea', 'games', 'bikin', 'emosi']",N
+"['bola', 'sepak', 'badminton', 'thomas', 'cup', 'tu', 'tembung']",NT
+"['dewa', 'bawa', 'sial', 'lo', 'ngetwit', 'thomas', 'cup', 'jd', 'kalah', 'tdnya', 'unggul']",N
+"['dlu', 'pas', 'ginting', 'bronze', 'olympic', 'juara', 'thomas', 'cup', 'netijen', 'terginting', 'bangga', 'netijen', 'ginting', 'podium', 'kibar', 'merah', 'putih', 'tp', 'jatuh', 'hujat', 'akan', 'ga']",P
+"['emaknya', 'runner', 'up', 'all', 'england', 'kali', 'rebut', 'uber', 'cup', 'bapak', 'rebut', 'thomas', 'cup']",NT
+"['even', 'tk', 'dpt', 'thomas', 'cup', 'harap', 'bleh', 'dpt', 'sea', 'cup', 'pon', 'la']",P
+"['gk', 'blg', 'mending', 'lawan', 'a', 'b', 'or', 'c', 'karna', 'mmg', 'kuat', 'thomas', 'cup', 'harap', 'indonesia', 'tururin', 'skuad', 'main', 'bener', 'inti', 'trus', 'like', 'ginting', 'turut', 'trs', 'main', 'utk', 'ms', 'sempat', 'jojo', 'jd', 'ms', 'kunci', 'md', 'rebut', 'point']",P
+"['haha', 'mmg', 'main', 'double', 'dlu', 'dgn', 'endo', 'ni', 'tktau', 'la', 'just', 'for', 'thomas', 'cup', 'or', 'mmg', 'kekal']",NT
+"['ikhlas', 'sih', 'males', 'aja', 'ngapain', 'kaya', 'ga', 'semangat', 'gtu', 'dtanya', 'aja', 'males', 'candain', 'kalah', 'thomas', 'cup', 'kaya', 'pengin', 'gtu', 'buka', 'suara', 'usaha', 'move', 'on', 'baca', 'tweet', 'postingan', 'senior', 'bikin', 'nyesek']",N
+"['india', 'ga', 'anggap', 'remeh', 'malaysia', 'denmark', 'udah', 'gilir', 'kena', 'tebas', 'ms', 'india', 'thomas', 'cup', 'dadak', 'main', 'disiplin', 'bgt', 'moga', 'curi', 'ms', 'sapu', 'bersih', 'md', 'besok', 'syukur', 'udah', 'duluan', 'kantong']",P
+"['ingat', 'sambut', 'menang', 'olimpik', 'thomas', 'cup']",NT
+"['inti', 'thomas', 'cup', 'kerja', 'tim', 'peran', 'dr', 'sisih', 'grup', 'final', 'nomor', 'menang', 'kalah', 'saing', 'rata', 'faktor', 'fisik', 'mental', 'jg', 'pengaruh', 'alhamdulillah', 'tim', 'ina', 'back-up', 'fokus', 'final']",P
+"['iya', 'oma', 'gill', 'aja', 'bilang', 'kalo', 'indonesia', 'the', 'most', 'successful', 'team', 'thomas', 'cup', 'cmiiw']",P
+"['iya', 'milih', 'pool', 'sm', 'aja', 'india', 'ms', 'ny', 'jg', 'bgus', 'md', 'ny', 'jg', 'gak', 'mudah', 'emg', 'thomas', 'cup', 'imbang', 'msuk', 'qf', '']",P
+"['iya', 'mmg', 'sinyo', 'salah', 'partner', 'the', 'best', 'ny', 'kevin', 'ya', 'gimana', 'pilih', 'kah', 'nyuruh', 'sinyo', 'thailand', 'trus', 'join', 'thomas', 'cup', 'ya', 'nga', 'wajar', 'kalo', 'chemistry', 'kevin', 'bagas', 'jga', 'babah', 'ahsan', 'pasang', 'dada', 'ya', 'gimana']",P
+"['kaget', 'tp', 'aamiin', 'bgt', 'moga', 'allah', 'mudah', 'jalan', 'team', 'indonesia', 'raih', 'winner', 'thomas', 'cup']",P
+"['kalah', 'nyesek', 'thomas', 'cup', 'kemarin', 'kecewa', 'iri', 'negara', 'tetangga']",N
+"['kuy', 'menang', 'thomas', 'cup', 'wkwk']",NT
+"['mei', 'final', 'indonesia', 'vs', 'india', 'juara', 'kali', 'thomas', 'cup', 'indonesia', 'temu', 'india', 'kali', 'sejarah', 'laju', 'final', 'thomas', 'cup', 'bismillah', 'optimis', 'juara']",P
+"['momen', 'final', 'thomas', 'cup', 'kmrn', 'tp', 'versi', 'moga', 'hasil']",P
+"['msh', 'sakit', 'sih', 'dri', 'thomas', 'cup']",N
+"['negara', 'masuk', 'empat', 'final', 'thomas', 'cup', 'indonesia', 'pimpin', 'klasemen', 'grup', 'a']",NT
+"['ra', 'nyesel', 'dadi', 'fans', 'berat', 'e', 'babah', 'pokok', 'babah', 'main', 'thomas', 'cup', 'pasang', 'alven', 'liat', 'main', 'pantang', 'nyerah', 'banget', 'gak', 'kaget', 'sih', 'idola', 'abadi']",P
+"['referensi', 'foto', 'jabat', 'kalo', 'indonesia', 'juara', 'thomas', 'cup']",NT
+"['selamat', 'india', 'thomas', 'cup', 'kecuali', 'md', 'nya', 'sekian', 'terima', 'kasih']",P
+"['selebrasi', 'down', 'to', 'earth', 'ya', 'bagus', 'sih', 'ga', 'heboh', 'respect', 'jg', 'tetangga', 'duduk', 'belah', 'ya', 'team', 'moga', 'thomas', 'cup', 'rejekinya', 'indonesia']",P
+"['tuju', 'nonton', 'thomas', 'cup', 'jdy', 'lupa', 'sm', 'ic', 'alur', 'ngaco', 'nd', 'gak', '']",N
+"['syabda', 'perkasa', 'bawa', 'today', 'first', 'tournament', 'first', 'debut', 'tuc', 'decider', 'juara', 'grup', 'a', 'tuc', 'menang', 'juara', 'grup', 'a', 'thomas', 'cup', 'sekian', 'abis', 'bahrain', 'ic', 'finally', 'turnamen', 'lg', 'langsung', 'debut', 'decider', 'tuc', 'u', 'really', 'did', 'well', 'baby', 'boy']",NT
+"['kemarin', 'juara', 'thomas', 'cup', 'point', 'ms', 'bilang', 'menang', 'mudah', 'krna', 'china', 'main', 'muda', 'ms', 'jg', 'sllu', 'sumbang', 'point', 'match', 'jojo', 'vito', 'akan', 'kaya', 'nothing', 'aja', 'mata', 'bawa', 'coach']",N
+"['terimakasih', 'juang', 'tim', 'thomas', 'cup', 'indonesia', 'prond', 'of', 'you', 'guys']",P
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'md', 'bagas', 'maulana', 'kevin', 'sanjaya', 'sukamuljo', 'vs', 'peeratchai', 'sukphun', 'pakkapon', 'teeraratsakul']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'md', 'bagas', 'maulana', 'kevin', 'sanjaya', 'sukamuljo', 'vs', 'peeratchai', 'sukphun', 'pakkapon', 'teeraratsakul']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'md', 'bagas', 'maulana', 'kevin', 'sanjaya', 'sukamuljo', 'vs', 'peeratchai', 'sukphun', 'pakkapon', 'teeraratsakul']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'md', 'bagas', 'maulana', 'kevin', 'sanjaya', 'sukamuljo', 'vs', 'peeratchai', 'sukphun', 'pakkapon', 'teeraratsakul']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'md', 'bagas', 'maulana', 'kevin', 'sanjaya', 'sukamuljo', 'vs', 'peeratchai', 'sukphun', 'pakkapon', 'teeraratsakul']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'md', 'bagas', 'maulana', 'kevin', 'sanjaya', 'sukamuljo', 'vs', 'peeratchai', 'sukphun', 'pakkapon', 'teeraratsakul', 'yok']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'md', 'bagas', 'maulana', 'kevin', 'sanjaya', 'sukamuljo', 'vs', 'peeratchai', 'sukphun', 'pakkapon', 'teeraratsakul']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'md', 'bagas', 'maulana', 'kevin', 'sanjaya', 'sukamuljo', 'vs', 'peeratchai', 'sukphun', 'pakkapon', 'teeraratsakul']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'md', 'bagas', 'maulana', 'kevin', 'sanjaya', 'sukamuljo', 'vs', 'peeratchai', 'sukphun', 'pakkapon', 'teeraratsakul']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'md', 'bagas', 'maulana', 'kevin', 'sanjaya', 'sukamuljo', 'vs', 'peeratchai', 'sukphun', 'pakkapon', 'teeraratsakul']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'md', 'bagas', 'maulana', 'kevin', 'sanjaya', 'sukamuljo', 'vs', 'peeratchai', 'sukphun', 'pakkapon', 'teeraratsakul', 'bagas', 'kevin', 'pasti', 'menang', 'indonesia', 'thailand']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'md', 'bagas', 'maulana', 'kevin', 'sanjaya', 'sukamuljo', 'vs', 'peeratchai', 'sukphun', 'pakkapon', 'teeraratsakul', 'yak', 'aman']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'md', 'bagas', 'maulana', 'kevin', 'sanjaya', 'sukamuljo', 'vs', 'peeratchai', 'sukphun', 'pakkapon', 'teeraratsakul', 'yok', 'fokus']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'ms', 'jonatan', 'christie', 'vs', 'kantaphon', 'wangcharoen']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'ms', 'jonatan', 'christie', 'vs', 'kantaphon', 'wangcharoen']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'ms', 'jonatan', 'christie', 'vs', 'kantaphon', 'wangcharoen']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'ms', 'jonatan', 'christie', 'vs', 'kantaphon', 'wangcharoen']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'ms', 'jonatan', 'christie', 'vs', 'kantaphon', 'wangcharoen']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'ms', 'jonatan', 'christie', 'vs', 'kantaphon', 'wangcharoen']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'ms', 'jonatan', 'christie', 'vs', 'kantaphon', 'wangcharoen']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'ms', 'jonatan', 'christie', 'vs', 'kantaphon', 'wangcharoen']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'ms', 'jonatan', 'christie', 'vs', 'kantaphon', 'wangcharoen']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'ms', 'jonatan', 'christie', 'vs', 'kantaphon', 'wangcharoen', 'menang', 'jojo', 'bawa', 'indonesia', 'balik', 'unggul']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'ms', 'jonatan', 'christie', 'vs', 'kantaphon', 'wangcharoen', 'jo']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'ms', 'jonatan', 'christie', 'vs', 'kantaphon', 'wangcharoen', 'yak', 'aman', 'jojo']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'ms', 'jonatan', 'christie', 'vs', 'kantaphon', 'wangcharoen', 'yok']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'ms', 'jonatan', 'christie', 'vs', 'kantaphon', 'wangcharoen']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'ms', 'shesar', 'hiren', 'rhustavito', 'vs', 'sitthikom', 'thammasin', 'ga', 'pake', 'ya']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'ms', 'shesar', 'hiren', 'rhustavito', 'vs', 'sitthikom', 'thammasin', 'tutup', 'menang', 'vito']",NT
+"['thomas', 'cup', 'group', 'a', 'indonesia', 'thailand', 'ms', 'shesar', 'hiren', 'rhustavito', 'vs', 'sitthikom', 'thammasin', 'yak', 'aman']",NT
+"['thomas', 'cup', 'ntar', 'final', 'mi', 'lawan', 'ind', 'lupa', 'jam', 'jam', 'gitu']",NT
+"['thomas', 'cup', 'msh', 'kliatan', 'daya', 'juang']",P
+"['vito', 'nih', 'kalo', 'mode', 'thomas', 'cup', 'beda', 'main', 'wkwkwkwk', 'coba', 'aja', 'kalo', 'tour', 'bwf', 'ss', 'hadeeeh']",N
+"['vito', 'si', 'silent', 'killer', 'decider', 'mas', 'tengkyu', 'banget', 'loh', 'nyelamatin', 'jantung', 'thomas', 'cup', 'haru']",P
+"['couple', 'goals', 'menang', 'seagames', 'sataunya', 'thomas', 'cup']",P
+"['thomas', 'cup', 'vito', 'tentu', 'menang', 'scorenya', 'thomas', 'cup', 'vito', 'jelma', 'cercah', 'harap', 'indonesia', 'ngegagalin', 'poin', 'tiga', 'korea', 'thank', 'you', 'mas', 'vito']",P
+"['fun', 'fact', 'semi', 'final', 'thomas', 'cup', 'india', 'vs', 'denmark', 'indonesia', 'vs', 'jepang', 'final', 'indonesia', 'menang', 'lawan', 'denmark', 'suka', 'cocoklogi', 'ulang', 'tc', 'sila', 'wkwkkw']",NT
+"['kirim', 'paket', 'cinta', 'laki', 'huni', 'team', 'thomas', 'cup', 'japan']",NT
+"['i', 'think', 'so', 'pas', 'nulia', 'otak', 'udah', 'mikir', 'udah', 'percaya', 'md', 'ms', 'muda', 'daddies', 'berani', 'bilang', 'last', 'thomas', 'cup']",P
+"['keinget', 'abis', 'thomas', 'cup', 'ginting', 'withdrawn', 'denmark', 'open', 'trus', 'jojo', 'retired', 'moga', 'kali', 'karna', 'cedera']",P
+"['jojo', 'tanding', 'nder', 'thomas', 'cup']",NT
+"['kali', 'habis', 'tc', 'mreka', 'dua', 'cedera', 'mreka', 'juang', 'habis', 'habis', 'mreka', 'tumpu', 'ms', 'aplagi', 'ajang', 'thomas', 'cup', 'mata', 'nang', 'bgt', 'speed', 'recovery', 'anthony', 'ginting', 'and', 'jonathan', 'christie']",P
+"['oma', 'gill', 'single', 'sukses', 'jo', 'karna', 'masuk', 'final', 'turnamen', 'thomas', 'cup', 'please', 'sedih', 'lagiii', 'yaa', 'inget', 'roda', 'putar', 'moga', 'konsisten', 'jooo', 'semangat']",P
+"['mending', 'ngomongin', 'buku', 'thomas', 'cup', 'ygy']",NT
+"['malaysia', 'bawak', 'thomas', 'cup', 'pakej', 'gold', 'medal', 'olympic']",P
+"['baca', 'komen', 'netizen', 'kl', 'vito', 'titip', 'platnas', 'karna', 'ga', 'menang', 'individu', 'lupa', 'vito', 'kali', 'kali', 'tentu', 'krusial', 'thomas', 'cup', 'sampe', 'gua', 'ga', 'terima', 'aja', 'kalo', 'org', 'ngejudge', 'mz', 'vito']",P
+"['sambut', 'menang', 'thomas', 'cup']",NT
+"['moga', 'indonesia', 'juara', 'piala', 'thomas', 'cup']",P
+"['take', 'care', 'kean', 'you', 'did', 'a', 'good', 'job', 'on', 'your', 'first', 'ever', 'thomas', 'cup', 'terimakasih', 'juang', 'goodluck', 'sea', 'games']",P
+"['yup', 'shaqeem', 'ranking', '', 'mantee', 'and', 'our', 'mix', 'double', 'je', 'ade', 'alam', 'masuk', 'tv', '', 'kuih', 'lapis', 'ranking', 'drpd', 'senior', 'tp', 'they', 'prove', 'it', 'menang', 'lawan', 'thomas', 'cup', 'team', 'singapore', '']",P
+"['babak', 'thomas', 'uber', 'cup', 'tentu', 'indonesia', 'ulang', 'sukses', 'thomas', 'cup', 'tonton', 'live', 'aplikasi', 'spotvnow', 'dapat']",NT
+"['sanggup', 'fajar', 'alfian', 'muhammad', 'rian', 'ardianto', 'bangga', 'tim', 'merah', 'putih', 'tonton', 'mana', 'thomas', 'cup', 'uber', 'cup', 'aplikasi', 'spotvnow', 'dapat']",NT
+"['intermezzo', 'selamat', 'tim', 'uber', 'korea', 'sukses', 'raih', 'uber', 'cup', 'moga', 'prestasi', 'tular', 'tim', 'thomas', 'ina', 'besok']",P
+"['alhamdulillah', '', 'tim', 'thomas', 'cup', 'indonesia', 'masuk', 'final', 'ayo', 'semangat', 'tahan', 'piala', 'thomas', 'saksi', 'final', 'indonesia', 'vs', 'india']",P
+"['ungkap', 'gambar', 'sensasi', 'debar', 'tegang', 'baru', 'orang', 'bilang', 'jantung', 'pindah', 'usus', 'nonton', 'thomas', 'cup']",NT
+"['masa', 'indonesia', 'jd', 'juara', 'thomas', 'cup', 'lolos', 'final', 'butuh', 'thn', 'thn', 'x', 'jd', 'tuan', 'rumah', 'tp', 'hasil', 'buruk', 'nyinyir', 'blm', 'rasa', 'pahit', 'jd', 'gemar', 'zaman', 'tsb', 'hehe']",P
+"['kasi', 'tim', 'thomas', 'cup', 'nya', 'jepang', 'main', 'jam', 'siang', 'tau', 'semalem', 'kelar', 'jam', '']",P
+"['alhamdulillaah', 'indonesia', 'maju', 'final', 'thomas', 'cup', 'kalah', 'jepang', 'indonesia', 'hadap', 'india', 'maju', 'final', 'sukses', 'kalah', 'denmark', 'dgn', 'skor', 'ayo', 'indonesia']",P
+"['alhamdulillah', 'bravo', 'atlet', 'pahlawan', 'bangsa', 'bawa', 'gembira', 'doa', 'tim', 'thomas', 'cup', 'indonesia', 'hadap', 'india', 'final', 'moga', 'sukses', 'hasil', 'dukung', 'doa', 'masyarakat', 'indonesia']",P
+"['analisis', 'thomas', 'cup', 'ramal', 'zii', 'jia', 'target', 'capai', 'juara', 'kumpul', '', 'rexy', 'dah', 'percaya', 'wooi', 'yik', 'utama', 'lawan', 'set', 'final', 'bac', 'wooi', 'yik', 'kena', 'stabil', 'emosi', 'rexy', 'pecah', 'pair']",NT
+"['appreciation', 'post', 'game', 'tinggal', 'cetak', 'angka', 'untun', 'balik', 'unggul', 'game', 'tinggal', 'cetak', 'angka', 'untun', 'menang', 'debut', 'thomas', 'cup', 'debut', 'laga', 'jd', 'tentu', 'menang', 'tampil', 'inspiratif', 'terima', 'kasih', 'syabda', '', 'bsi']",NT
+"['astaghfirullah', 'bangun', 'tidur', 'langsung', 'kasih', 'kek', 'gin', 'indonesia', 'china', 'negara', 'sukses', 'thomas', 'cup', 'musuh', 'bebuyutan', 'ngeri', 'banget', 'kalo', 'salah', 'negara', 'kalah', 'auto', 'ga', 'bawa', 'apa', 'wkwkwk']",NT
+"['bam', 'kena', 'tengok', 'strategi', 'development', 'player', 'muda', 'naik', 'ranking', 'harap', 'lzj', 'je', 'or', 'dlcw', 'team', 'event', 'mcm', 'ni', 'kempunan', 'thomas', 'cup', 'parah', 'releven', 'dahla', 'come', 'back', 'stronger', 'bounce', 'backkk']",N
+"['batc', 'thomas', 'cup', 'gue', 'wajarin', 'sea', 'games', 'bener', 'tolonggg', 'dikramasinn']",N
+"['begadang', 'gue', 'ga', 'sia', 'in', 'vito', 'we', 'trust', 'final', 'thomas', 'cup', 'gengsss']",P
+"['besok', 'thomas', 'uber', 'cup', 'finals', 'wib', 'match', 'uber', 'cup', 'jepang', 'vs', 'indonesia', 'live', 'inews', 'mnctv', 'match', 'thomas', 'cup', 'indonesia', 'vs', 'korea', 'live', 'inews', 'mnctv', 'match', 'thomas', 'cup', 'denmark', 'vs', 'china', 'live', 'inews']",NT
+"['babah', 'thn', 'andal', 'thomas', 'cup', 'ga', 'capai', 'titik', 'babah', 'sih']",P
+"['babah', 'isyarat', 'thomas', 'cup', 'tournament', 'regu']",NT
+"['bahagia', 'match', 'final', 'tonton', 'nonton', 'liverpool', 'final', 'fa', 'cup', 'vs', 'chelsea', 'besok', 'nonton', 'thomas', 'ina', 'final', 'vs', 'india', 'moga', 'menang', 'liverpool', 'thomas', 'ina', 'aamiin']",P
+"['bangun', 'indonesia', 'masuk', 'final', 'thomas', 'cup']",P
+"['bau', 'banget', 'draw', 'thomas', 'cup', 'dr', 'jaman', 'sisih', 'grup']",N
+"['curhatan', 'anthony', 'sinisuka', 'ginting', 'sumbang', 'poin', 'indonesia', 'thomas', 'cup']",NT
+"['sumbang', 'poin', 'tim', 'thomas', 'cup', 'indonesia', 'curah', 'hati', 'anthony', 'sinisuka', 'ginting', 'ginting', 'irwansyah', 'jessica', 'deddy', 'corbuzier', 'beneran', 'masuk', 'kulkas', 'timor', 'leste', 'tidur', 'araujo', 'liverpool']",NT
+"['sembuh', 'potek', 'thomas', 'cup', 'kemarin', 'lanjut', 'potek', 'sea', 'games', 'regu', 'putra', 'it s', 'okay', 'team', 'let s', 'comeback', 'stronger', 'raih', 'medali', 'sektor', 'orang']",P
+"['bendera', 'indonesia', 'kibar', 'thomas', 'uber', 'cup', 'sea', 'games']",P
+"['bener', 'bener', 'copy', 'paste', 'daging', 'syabda', 'ginting', 'syabda', 'ginting', 'kevin', 'hendra', 'momota', 'thomas', 'cup', 'jantung']",NT
+"['beneran', 'dah', 'malaysia', 'butuh', 'jia', 'md', 'nya', 'konsisten', 'juara', 'thomas', 'cup', 'aja', 'md', 'md', 'nya', 'tolong', 'bangun']",N
+"['darah', 'semifinal', 'thomas', 'cup']",NT
+"['hubung', 'bl', 'barusan', 'ngulik', 'wikipedia', 'raih', 'tim', 'indonesia', 'x', 'selenggara', 'thomas', 'cup', 'x', 'final', 'x', 'juara', 'x', 'runner-up', 'x', 'bronze', 'medalist', 'ga', 'masuk', 'sf', 'keren', 'bgt', 'badminton', 'ina']",P
+"['prediksi', 'ranking', 'versi', 'team', 'pasca', 'thomas', 'uber', 'cup', 'men s', 'doubles', 'pekan', 'ganda', 'putra', 'japan', 'takuro', 'hoki', 'yugo', 'kobayashi', 'geser', 'posisi', 'ganda', 'putra', 'chinese', 'taipei', 'lee', 'wang', 'chi-lin']",NT
+"['prediksi', 'ranking', 'versi', 'team', 'pasca', 'thomas', 'uber', 'cup', 'men s', 'singles', 'axelsen', 'kokoh', 'peringkat', 'dunia', 'tim', 'denmark', 'finish', 'semifinalis', 'thomas', 'cup']",NT
+"['prediksi', 'ranking', 'versi', 'team', 'pasca', 'thomas', 'uber', 'cup', 'mixed', 'doubles', 'ranking', 'ganda', 'campur', 'dunia', 'pekan', 'ubah', 'bass', 'popor', 'posisi', 'nyaman', 'ranking', 'dunia', 'susul', 'sang', 'juara', 'bac', 'zheng', 'huang', 'posisi']",NT
+"['prediksi', 'ranking', 'versi', 'team', 'pasca', 'thomas', 'uber', 'cup', 'women s', 'doubles', 'ganda', 'putri', 'geser', 'posisi', 'mana', 'ganda', 'putri', 'korea', 'kim', 'soyeong', 'kong', 'heeyong', 'ranking', 'dunia']",NT
+"['besok', 'mei', 'siapx', 'sport', 'jantung', 'ya', 'guys', 'tayang', 'live', 'uber', 'cup', 'ina', 'vs', 'jpn', 'wib', 'thomas', 'cup', 'ina', 'vs', 'kor', 'wib', 'utk', 'rebut', 'juara', 'grup', 'malam', 'tidur', 'nyenyak', 'bsk', 'support', 'tim', 'thomas', 'uber', 'indonesia', 'prediksi']",P
+"['besok', 'staycation', 'agenda', 'nonton', 'final', 'thomas', 'cup']",NT
+"['bicara', 'thomas', 'cup', 'uber', 'cup', 'tahir', 'djide', 'salah', 'latih', 'fisik', 'harum', 'nama', 'dunia', 'bulutangkis', 'pria', 'sidrap', 'kenal', 'keras', 'sebut', 'latih', 'latih', 'tentara']",NT
+"['bilqis', 'prasista', 'hasil', 'kalah', 'akane', 'yamaguchi', 'anak', 'joko', 'suprianto', 'hasil', 'hantar', 'indonesia', 'juara', 'x', 'thomas', 'cup', 'ibu', 'zelin', 'resiana', 'menang', 'x', 'uber', 'cup']",NT
+"['bilqis', 'kalah', 'akane', 'notabene', 'main', 'top', 'tunggal', 'putri', 'syabda', 'bawa', 'main', 'thomas', 'cup', 'tanding', 'tentu', 'menang', 'lawan', 'wakil', 'korea', 'tarik']",NT
+"['bingung', 'ntar', 'ntn', 'timnas', 'thomas', 'cup', 'wkwk', '', 'final', 'partai', 'hidup', 'mati', 'wkwkwk']",P
+"['bismillah', 'indo', 'tahan', 'trophy', 'thomas', 'cup']",P
+"['bismillah', 'moga', 'thomas', 'cup', 'ni', 'milik']",P
+"['bismillahirrahmanirrahim', 'good', 'luck', 'team', 'indonesia', 'saksi', 'final', 'piala', 'thomas', 'cup', 'd', 'useetv', 'indihome', 'channel', 'spotv']",P
+"['bravo', 'india', 'winners', 'thomas', 'cup', 'champions', 'indonesia', 'x', 'china', 'x', 'malaysia', 'x', 'denmark', 'x', 'japan', 'x']",NT
+"['coba', 'fansnya', 'zii', 'jia', 'biar', 'tau', 'gmna', 'gagal', 'sf', 'thomas', 'cup', 'menang', 'mulu', 'uda', 'sakit', 'kayak']",N
+"['benda', 'puas', 'hati', 'suku', 'piala', 'thomas', 'takda', 'hawkeye', 'suku', 'world', 'cup', 'fifa', 'takda', 'var', 'siottt', 'jee', 'ni', 'lawan', 'peringkat', 'kot']",N
+"['daftar', 'negara', 'lolos', 'empat', 'final', 'thomas', 'cup']",NT
+"['daftar', 'negara', 'lolos', 'empat', 'final', 'thomas', 'cup']",NT
+"['daftar', 'negara', 'lolos', 'empat', 'final', 'thomas', 'cup']",NT
+"['daftar', 'negara', 'lolos', 'semifinal', 'thomas', 'cup']",NT
+"['dah', 'gila', 'thomas', 'cup', 'ni', 'kalah', 'update', 'kpop']",N
+"['juara', 'tahan', 'tahan', 'gelar', 'thomas', 'cup', 'saing', 'tim', 'cowok', 'emang', 'super', 'ketat', 'emang', 'babak', 'grup', 'aja', 'tuh', 'sulit', 'prediksi', 'juara', 'gak', 'itu', 'aja', 'bikin', 'olahraga', 'warna', 'lirik', 'bayak']",P
+"['debut', 'thomas', 'cup', 'udah', 'berat', 'tentu', 'tinggal', 'game', 'balik', 'menang', 'syabda', 'selesai', 'tugas', 'sangaaat']",P
+"['edisi', 'thomas', 'cup', 'tembok', 'china', 'roboh', 'indonesia', 'langsung', 'hajar']",P
+"['thomas', 'cup', 'seag', 'decider', 'ms', 'djarum', 'vito', 'syabda', 'skrg', 'bobby', 'ayo', 'nyusul', 'geng', 'djarum']",P
+"['banding', 'rekan', 'angkat', 'pelatnas', 'christian', 'dkk', 'syabda', 'jujur', 'dpt', 'sempat', 'main', 'thomas', 'cup', 'jd', 'sempat', 'langka', 'klo', 'manfaat', 'depan', 'angkat', 'moral']",P
+"['dukung', 'tim', 'thomas', 'cup', 'semangat', 'qf', 'nya', 'syabda', 'kevin', 'vito', 'daddies', 'kebab', 'kebas', 'fajri', 'bakri', 'ginting', 'balqis', 'korea', 'malaysia', 'babah', 'chiharu', 'shida', 'epic', 'comeback', 'deddy', 'corbuzier', 'papua']",NT
+"['emang', 'anak', 'takdir', 'susah', 'move', 'on', '', 'sumpah', 'sampe', 'pikir', 'thomas', 'cup', 'sedih', 'aja', 'gituu', 'thomas', 'cup', 'nya', 'india', 'gimana', 'mental', 'atlit', 'ya', 'fokus', 'thailand', 'open', 'gak', 'ya', 'c']",N
+"['negara', 'lolos', 'empat', 'final', 'thomas', 'cup', 'indonesia', 'atas']",NT
+"['final', 'thomas', 'cup', 'ina', 'vs', 'ind', 'kalo', 'ci', 'agnes', 'plot', 'twist', 'hahahaha', 'ok', 'semangat', 'final', 'nya', 'besok', 'main', 'enjoy', 'nothing', 'to', 'lose']",P
+"['final', 'thomas', 'cup', 'kemaren', 'indonesia', 'china', 'quarter', 'final', 'indonesia', 'china', 'uhukk', 'uhukk', 'doang', 'china']",NT
+"['foto', 'smash', 'keras', 'indonesia', 'hajar', 'thailand', 'thomas', 'cup']",NT
+"['fantastis', 'nilai', 'bonus', 'thomas', 'cup', 'kevin', 'sanjaya', 'cs', 'juara', 'japan', 'melissa', 'ukraine', 'ginting', 'jonathan', 'vito', 'ahsan', 'hendra', 'fajri']",NT
+"['final', 'thomas', 'cup', 'jam', 'mulesnya']",NT
+"['giveaway', 'edisi', 'thomas', 'cup', 'indonesia', 'goes', 'to', 'final', 'giveaway', 'saldo', 'k', 'orang', 'k', 'dana', 'k', 'spay', 'rules', 'rt', 'aja', 'indonesian', 'only', 'badminton', 'stan', 'kuyy', 'mutualan', 'ina', 'stan', 'free', 'pass', 'end', 'besok', 'wib']",NT
+"['ga', 'sabar', 'nunggu', 'oop', 'thomas', 'cup', 'prindavan', 'main', 'urut', 'oop', 'pasang', 'ms', 'md', 'degdegan', 'parah']",NT
+"['gak', 'harap', 'sih', 'indo', 'tahan', 'juara', 'thomas', 'cup', 'prediksi', 'w', 'juara', 'thomas', 'den', 'mas']",N
+"['gak', 'nonton', 'badminton', 'patah', 'hati', 'kalah', 'enas', 'india', 'final', 'thomas', 'cup']",N
+"['gara', 'gara', 'semalem', 'nonton', 'thomas', 'cup', 'lawan', 'korsel', 'ngimpi', 'member', 'redvelvet', 'lomba', 'bulutangkis', 'jadib', 'putri', 'ganda', 'putri']",NT
+"['gelut', 'aja', 'dah', 'perkara', 'final', 'thomas', 'cup']",N
+"['gile', 'gak', 'kalah', 'thomas', 'cup', 'edisi', 'what', 'a', 'valuable', 'asset', 'for', 'indonesia']",P
+"['gimana', 'khudukers', 'hasil', 'undi', 'thomas', 'cup', 'undi', 'uber', 'indonesia', 'ketemu', 'tim', 'china', 'thomas', 'taipei', 'jepang', 'korea', 'denmark', 'temu', 'thomas']",NT
+"['ginting', 'jonatan', 'kevin', 'hitung', 'x', 'antar', 'indonesia', 'final', 'thomas', 'cup', 'dr', 'x', 'keikutsertaannya', 'main', 'thomas', 'cup', 'debut', 'usia', 'muda', 'kontribusi']",P
+"['ginting', 'main', 'menit', 'thomas', 'cup']",NT
+"['group', 'a', 'thomas', 'cup', 'md', 'ina', 'vs', 'tha', 'bagas', 'maulana', 'kevin', 'sanjaya', 'sukamuljo', 'vs', 'peeratchai', 'sukphun', 'pakkapon', 'teeraratsakul', 'indonesia', 'pasti', 'menang', 'thailand', 'pasang', 'gado', 'bagas', 'kevin', 'sumbang', 'poin', 'tiga', 'game', 'senang']",NT
+"['history', 'made', 'tim', 'thomas', 'india', 'hasil', 'laju', 'babak', 'final', 'thomas', 'cup', 'kali', 'india', 'hasil', 'libas', 'denmark', 'skor']",NT
+"['final', 'thomas', 'cup']",NT
+"['final', 'thomas', 'cup', 'ya', 'ya', 'allah', 'degan']",P
+"['hasil', 'drawing', 'empat', 'final', 'thomas', 'cup', 'indonesia', 'jumpa', 'china']",NT
+"['hasil', 'thomas', 'uber', 'cup', 'day', 'group', 'stage', 'matchday', 'selesai', 'luurr']",NT
+"['hendra', 'setiawan', 'peran', 'tampil', 'anthony', 'ginting', 'laga', 'thomas', 'cup']",NT
+"['hendra', 'setiawan', 'pamit', 'thomas', 'cup', 'detik', 'arenanews']",NT
+"['hendra', 'setiawan', 'pamit', 'thomas', 'cup', 'detik', 'arenanews']",NT
+"['history', 'ind', 'final', 'pertama', 'thomas', 'cup']",NT
+"['bilqis', 'prasista', 'zelin', 'resiana', 'salah', 'pahlawan', 'uber', 'cup', 'indonesia', 'bapak', 'joko', 'suprianto', 'salah', 'pahlawan', 'thomas', 'cup', 'indonesia']",NT
+"['india', 'bawa', 'pulang', 'piala', 'thomas', 'perdana', 'cegat', 'gelar', 'indonesia', 'selamat', 'bahagia', 'asa', 'indonesia', 'juara', 'thomas', 'cup', 'simak', 'muka', 'hari', 'merdeka', 'juni', 'malaya', 'kabung', 'indonesia', 'raya', 'gema']",P
+"['india', 'dl', 'bantai', 'skrng', 'final', 'thomas', 'cup', 'ngeriii']",P
+"['india', 'juara', 'thomas', 'cup', 'kalah', 'indonesia', 'laga', 'final', 'impact', 'arena', 'bangkok', 'minggu', 'lengkap']",P
+"['india', 'jajak', 'babak', 'semifinal', 'thomas', 'cup', 'nanti', 'tepat', 'thomas', 'cup', 'jakarta', 'indonesia', 'ind', 'mas']",NT
+"['indonesia', 'live', 'final', 'thomas', 'cup', 'indonesia', 'vs', 'india', 'wib', 'mnc', 'tv', 'i', 'newstv', 'mudahx', 'an', 'ina', 'bawa', 'pulang', 'lg', 'piala', 'thomas', 'skrg', 'bendera', 'merah', 'putih', 'sdh', 'kibar', 'this', 'is', 'the', 'moment', 'line', 'up', 'main', 'ina', 'ubah']",P
+"['indonesia', 'hasil', 'final', 'thomas', 'cup', 'kalah', 'jepang', 'semifinal', 'pasti', 'menang', 'shesar', 'hiren', 'rhustavito']",P
+"['indonesia', 'peluang', 'tahan', 'juara', 'thomas', 'cup', 'srikandi', 'merah', 'putih', 'butuh', 'bicara', 'uber', 'cup']",P
+"['indonesia', 'tampil', 'final', 'thomas', 'cup', 'juara', 'hadap', 'india', 'final', 'merah-putih', 'kibar']",NT
+"['indonesia', 'vs', 'china', 'temu', 'negara', 'sukses', 'thomas', 'cup', 'negara', 'kalah', 'x', 'sejarah', 'thomas', 'cup', 'kamis', 'malam', 'jd', 'kalah', 'indonesia', 'china', 'thomas', 'cup']",NT
+"['indonesia', 'vs', 'india', 'final', 'thomas', 'cup']",NT
+"['indonesia', 'vs', 'korea', 'thomas', 'cup', 'duet', 'kevin']",NT
+"['indonesian', 'thomas', 'cup', 'team', 'when', 'foto']",NT
+"['kalo', 'bl', 'join', 'pas', 'thomas-uber', 'cup', 'nonton', 'match', 'langsung', 'undur', 'bl', 'ya']",NT
+"['temu', 'jpn', 'vs', 'ina', 'thomas', 'cup', 'qf', 'edisi', 'years', 'later', 'hendra', 'setiawan', 'mohammad', 'ahsan', 'kuat', 'skuad', 'thomas', 'cup', 'indonesia']",NT
+"['faktor', 'menang', 'telak', 'tim', 'thomas', 'cup', 'indonesia', 'china']",NT
+"['si', 'kalem', 'shesar', 'hiren', 'rhustavito', 'selamat', 'tim', 'thomas', 'cup', 'indonesia']",NT
+"['italia', 'ga', 'lolos', 'wc', 'thomas', 'cup', 'kalah', 'juve', 'nihil', 'tropi', 'arsenal', 'no', 'ucl', 'madrid', 'kalah', 'lawan', 'liverpool', 'final', 'it', 'summarizes', 'how', 'my', 'sports', 'season', 'ends', 'tropi', 'dr', 'la', 'liga', 'mayan']",NT
+"['its', 'final', 'indonesia', 'juara', 'tahan', 'laju', 'babak', 'final', 'ayo', 'dukung', 'tim', 'indonesia', 'tanding', 'lawan', 'india', 'saksi', 'tanding', 'final', 'total', 'energies', 'bwf', 'thomas', 'cup', 'paket', 'streaming', 'useetv', 'go', 'rp']",NT
+"['jadwal', 'final', 'thomas', 'cup', 'indonesia', 'vs', 'india', 'ginting', 'dkk', 'tempur', 'live', 'inews', 'tv']",NT
+"['jadwal', 'final', 'thomas', 'cup', 'indonesia', 'vs', 'india', 'shesar', 'hiren', 'pahlawan', 'jonatan', 'christie', 'ngaku', 'salah']",NT
+"['jadwal', 'indonesia', 'uber', 'thomas', 'cup', 'rabu', 'mei']",NT
+"['jadwal', 'jam', 'tayang', 'thomas', 'uber', 'cup', 'live', 'rabu', 'mei', 'indonesia', 'vs', 'korea', 'selatan', 'grup', 'a']",NT
+"['jadwal', 'semifinal', 'thomas', 'cup', 'ina', 'vs', 'jpn', 'jumat', 'mei', 'wib', 'court']",NT
+"['jadwal', 'siar', 'langsung', 'indonesia', 'vs', 'india', 'final', 'thomas', 'cup']",NT
+"['jadwal', 'thomas', 'uber', 'cup', 'day', 'group', 'stage', 'matchday', 'babak', 'grup', 'guys', 'juara', 'grup', 'runner-up']",NT
+"['jadwal', 'prediksi', 'final', 'thomas', 'cup', 'indonesia', 'vs', 'india', 'aadc', 'christie']",NT
+"['jadwal', 'prediksi', 'final', 'thomas', 'cup', 'indonesia', 'vs', 'india', 'aadc', 'christie']",NT
+"['jaga', 'tp', 'kaber', 'gaada', 'wifi', 'gmn', 'streaming', 'thomas', 'cup', 'siang', 'huft']",NT
+"['jam', 'stress', 'nonton', 'liverpool', 'jam', 'stress', 'nonton', 'thomas', 'cup', 'hewlp']",N
+"['lewat', 'thomas', 'cup', 'uber', 'cup', 'jadwal', 'indonesia', 'vs', 'korea', 'selatan']",NT
+"['lewat', 'siang', 'wib', 'final', 'thomas', 'cup', 'indonesia', 'vs', 'india', 'live', 'mnc', 'inews', 'tv']",NT
+"['janji', 'pergi', 'subuh', 'gegara', 'malam', 'asi', 'nonton', 'semifinal', 'thomas', 'cup', 'bangun', 'enam', 'ya', 'tinggal', 'dooong', 'wkwkwkwkw', 'lawak', 'kali']",NT
+"['jia', 'underperformed', 'lepas', 'thomas', 'cup', 'lepas', 'until', 'bwc', 'kali', 'retired', 'org', 'perli', 'takut', 'malu', 'kalah', 'sbb', 'tu', 'retired', 'mental', 'breakdown', 'bwc', 'iv', 'nang', 'so', 'many', 'injuries', 'sbb', 'push', 'issue', 'banned', 'rumors']",NT
+"['joging', 'olahraga', 'pagi', 'siap', 'jantung', 'biar', 'aman', 'nonton', 'final', 'thomas', 'cup', 'semagat', 'team', 'thomas', 'cup', 'smg', 'bawa', 'pulang', 'emas']",P
+"['jona', 'tolong', 'inspirasi', 'match', 'lgz', 'vs', 'christo', 'kesel', 'rekor', 'thomas', 'cup', 'udah', 'pecah']",N
+"['jonatan', 'alami', 'blank', 'lawan', 'thailand', 'thomas', 'cup']",NT
+"['jonatan', 'alami', 'blank', 'lawan', 'thailand', 'thomas', 'cup', 'cnn', 'indonesia', 'google', 'berita', 'olahraga', 'arenanews']",NT
+"['jonatan', 'alami', 'blank', 'lawan', 'thailand', 'thomas', 'cup', 'cnn', 'indonesia', 'google', 'berita', 'olahraga', 'arenanews']",NT
+"['jonatan', 'christie', 'juang', 'maksimal', 'thomas', 'cup']",NT
+"['jonatan', 'menang', 'indonesia', 'lolos', 'semifinal', 'thomas', 'cup']",NT
+"['jonatan', 'aku', 'tolong', 'ginting', 'kevin', 'ahsan', 'thomas', 'cup']",NT
+"['juara', 'uber', 'cup', 'juara', 'thomas', 'cup']",NT
+"['kabar', 'bangga', 'kemarin', 'bulutangkis', 'indonesia', 'main', 'piala', 'thomas', 'cup', 'hasil', 'menang', 'lawan', 'china', 'semifinal', 'hadap', 'jepang', 'doain', 'ya', 'ozzers', 'moga', 'indonesia', 'menang', 'ya', 'ozzers', 'w']",P
+"['thomas', 'cup', 'versi', 'doubles', 'malaysia', 'vs', 'indonesia', 'final', 'kot']",N
+"['asyik', 'focus', 'player', 'je', 'bye', 'bye', 'je', 'lahh', 'thomas', 'cup', 'champion', 'tu', 'bam', 'ni', 'better', 'dar', 'sikit', 'management', 'tu', 'lzj', 'makes', 'a', 'move', 'nak', 'tercidukk']",N
+"['kalo', 'ken', 'banding', 'in', 'christie', 'ginting', 'thomas', 'cup', 'data', 'debut', 'sampe', 'hasil', 'semalem', 'lawan', 'thailand', 'finger', 'crossed', 'match-match']",NT
+"['kayak', 'thomas', 'cup', 'ga', 'sampe', 'bikin', 'gue', 'degdegan', 'jam', 'tanding']",P
+"['hendra', 'ahsan', 'sdh', 'percaya', 'dgn', 'md', 'muda', 'bilang', 'this', 'is', 'my', 'last', 'thomas', 'cup']",P
+"['lawan', 'thomas', 'cup', 'berat', 'dah']",N
+"['seru', 'atlet', 'badminton', 'baik', 'dunia', 'saing', 'totalenergies', 'bwf', 'thomas', 'uber', 'cup', 'finals', 'saksi', 'langsung', 'aplikasi', 'useetv', 'go', 'langgan', 'indihome']",NT
+"['kevin', 'bagas', 'menang', 'indonesia', 'empat', 'final', 'thomas', 'cup']",P
+"['harap', 'kuih', 'lapis', 'masuk', 'sea', 'games', 'timba', 'alam', 'and', 'senior', 'masuk', 'thomas', 'cup', 'masuk', 'final', 'balik', 'pulak', 'senior', 'dok', 'timba', 'alam', 'kuih', 'lapis', 'dok', 'masuk', 'final']",P
+"['koga', 'ni', 'comel', 'la', 'aneh', 'je', 'compilation', 'thomas', 'cup', 'ni']",N
+"['kohen', 'made', 'a', 'post', 'about', 'his', 'last', 'thomas', 'cup', 'meanwhile', 'yere', '', 'yaiya', 'sih', 'leoniel', 'bakri', 'emg', 'udah', 'tc', 'bareng', 'kohen', 'tingga', 'aja', '']",N
+"['kunci', 'ahsan', 'hendra', 'lalu', 'duel', 'alot', 'lawan', 'thailand', 'thomas', 'cup']",NT
+"['tidur', 'salah', 'ya', 'thomas', 'cup']",N
+"['we', 'might', 'see', 'this', 'squad', 'in', 'thomas', 'cup', 'main', 'ni', 'ranking', 'percaya', 'adik', 'takat', 'bukit', 'bintang', 'dunia', 'kenal', 'kau', 'dik']",P
+"['leo', 'daniel', 'thomas', 'cup', 'bagas', 'fikri', 'all', 'england', 'pramudya', 'yeremia', 'juara', 'asia', 'its', 'real', 'garis', 'udah', 'rezeki', 'sendiri', 'adil', 'kita', 'aja', 'sabar', 'henti', 'banding', 'keep', 'up', 'this', 'great', 'trend']",P
+"['liat', 'berita', 'thomas', 'cup', 'geram', 'ya', 'dikalahin', 'newbie', 'badminton']",N
+"['list', 'nontonku', 'going', 'to', 'you', 'at', 'the', 'speed', 'km', 'en', 'o clock', 'jam', 'webinar', 'jam', 'fp', 'motogp', 'jam', 'semifinal', 'thomas', 'cup', 'jam', 'fp', 'motogp']",NT
+"['liverpool', 'quadruple', 'chelsea', 'quadruple', 'duluan', 'quadruple', 'runner-up', 'kalah', 'x', 'final', 'turnamen', 'domestik', 'fa', 'cup', 'fa', 'cup', 'league', 'cup', 'fa', 'cup', 'sadar', 'thomas', 'tuchel', 'trofi', 'domestik', 'inggris']",N
+"['lolos', 'semifinal', 'thomas', 'cup', 'indonesia', 'tantang', 'jepang', 'jadwal']",NT
+"['lu', 'liat', 'syabda', 'gimana', 'ngelawan', 'fase', 'knockout', 'lu', 'arrgh', 'bener', 'yaaa', 'thomas', 'cup', 'kmaren', 'lo', 'turu', 'gimana', 'sih']",N
+"['ms', 'indonesia', 'ngelawak', 'ga', 'thomas', 'cup', 'ga', 'sea', 'games']",N
+"['mari', 'ulang', 'final', 'thomas', 'cup', 'thn']",P
+"['mimpi', 'india', 'juara', 'thomas', 'cup', 'dalem', 'mimpi', 'udah', 'nang', 'pas', 'bangun', 'langsung', 'bilang', 'alhamdulillah', 'mimpi']",NT
+"['maybe', 'takde', 'rezeki', 'thomas', 'cup', 'maybe', 'rezeki', 'zii', 'jia', 'ni', 'nk', 'juara', 'byk', 'tournament', 'amin', 'aja']",P
+"['med', 'predict', 'thomas', 'cup', 'quarter', 'final', 'malaysia', 'india', 'semi', 'final', 'malaysia', 'to', 'beat', 'denmark', 'ramal', 'nampak', 'takat', 'situ', 'dah', 'tanda', 'update', 'anyways', 'jumpa', 'hd']",NT
+"['menteri', 'bumn', 'semangat', 'tim', 'thomas', 'uber', 'cup', 'indonesia', 'tanding', 'thailand', 'erick', 'thohir', 'moga', 'harum', 'nama', 'bulutangkis', 'indonesia', 'kancah', 'dunia', 'internasional']",P
+"['menteri', 'bumn', 'semangat', 'utk', 'tim', 'thomas', 'uber', 'cup', 'indonesia', 'tanding', 'thailand', 'minggu', 'mei', 'tim', 'thomas', 'indonesia', 'harap', 'tahan', 'gelar', 'juara', 'thn', 'sdgkn', 'tim', 'uber', 'cup', 'dihrpkn', 'memberikn', 'kejut']",P
+"['menteri', 'bumn', 'erick', 'thohir', 'dukung', 'semangat', 'tim', 'thomas', 'cup', 'uber', 'cup', 'indonesia', 'tanding', 'thailand', 'moga', 'tim', 'thomas', 'uber', 'cup', 'bs', 'bawa', 'pulang', 'gelar', 'juara', 'amiiin']",P
+"['tri', 'bumn', 'semangat', 'tim', 'thomas', 'uber', 'cup', 'indonesia', 'tanding', 'thailand', 'minggu', 'tgl', 'mei', 'mei']",P
+"['remang', 'bulu', 'roma', 'moga', 'thomas', 'cup', 'milik', 'malaysia']",P
+"['mimpi', 'ya', 'semalem', 'nya', 'thomas', 'cup', 'ina', 'ketemu', 'china']",P
+"['mohammad', 'ahsan', 'and', 'kevin', 'sanjaya', 'final', 'thomas', 'cup', 'thank', 'you', 'guys', 'kangen', 'pasang', 'gado', 'getty', 'images', 'man', 'vatsyayana']",NT
+"['mumpung', 'drama', 'tema', 'badminton', 'event', 'thomas-uber', 'cup', 'mimin', 'bahas', 'dikiitt', 'judul', 'istilah', 'badminton', 'drama']",NT
+"['ngerjain', 'kum', 'pagi', 'nonton', 'thomas', 'cup', 'matches']",NT
+"['nmpk', 'draw', 'thomas', 'cup', 'malaysia', 'hrapan', 'pgi', 'final']",P
+"['nonton', 'thomas', 'cup', 'bikin', 'sadar', 'kadang', 'kuat', 'apa', 'usaha', 'tuhan', 'gak', 'ijinkan', 'gak', 'hasil', 'ginting', 'babah', 'kevin', 'main', 'bagus', 'they', 'did', 'really', 'well', 'udah', 'unggul', 'ttp', 'kalah']",P
+"['opini', 'pribadi', 'kunci', 'rahasia', 'pegang', 'coach', 'naga', 'api', 'thomas', 'cup', 'pasang', 'kevin', 'ahsan', 'hendra', 'bagas', 'wkwkwk']",P
+"['nonton', 'thomas', 'cup', 'mana', 'siih', 'kemarin', 'pen', 'nntn']",NT
+"['pagi', 'liat', 'draw', 'thomas', 'cup', '', 'eh', 'jodoh', 'bgt', 'ma', 'cina', '']",N
+"['menteri', 'dukung', 'tim', 'thomas', 'uber', 'cup', 'indonesia', 'tanding', 'thailand', '', 'mugi', 'tim', 'sukses', '', 'aamiin']",P
+"['partai', 'beban', 'jojo', 'panjang', 'napas', 'tim', 'berat', 'pikul', 'tpi', 'jojo', 'set', 'coba', 'rubah', 'pola', 'main', 'sulit', 'harap', 'muncul', 'kidambi', 'menang', 'point', 'krusial', 'india', 'rebut', 'thomas', 'cup', 'dgn', 'score']",NT
+"['latih', 'ganda', 'putra', 'indonesia', 'herry', 'ip', 'sebut', 'performa', 'tim', 'thomas', 'cup', 'sejati', 'on', 'the', 'track', 'skuad', 'merah', 'putih', 'hoki']",P
+"['empat', 'final', 'thomas', 'uber', 'cup', 'indonesia', 'vs', 'china', 'hasil', 'drawing', 'lengkap']",NT
+"['pesan', 'sentuh', 'ahsan', 'hendra', 'thomas', 'cup']",NT
+"['pesan', 'pacu', 'motivasi', 'syabda', 'menang', 'tim', 'thomas', 'cup', 'indonesia', 'unggul', 'korea']",P
+"['piala', 'thomas', 'tim', 'thomas', 'cup', 'indonesia', 'temu', 'jepang', 'babak', 'semifinal', 'menang', 'china', 'babak', 'empat', 'final', 'dukung', 'tim', 'thomas', 'cup', 'ya', 'gaess', 'keren']",NT
+"['prannoy', 'h', 's', 'bawa', 'india', 'kali', 'injak', 'kaki', 'partai', 'final', 'thomas', 'cup', 'kalah', 'denmark', 'skor', '', 's']",NT
+"['profil', 'shesar', 'hiren', 'rhustavito', 'tentu', 'lolos', 'indonesia', 'final', 'thomas', 'cup']",NT
+"['profil', 'biodata', 'lengkap', 'main', 'indonesia', 'laga', 'final', 'thomas', 'cup']",NT
+"['puji', 'tuhan', 'ucap', 'syukur', 'menang', 'indonesia', 'final', 'thomas', 'cup', 'mengstress', 'tp', 'yaudah', 'gapapa', 'ak', 'kuat', 'ak', 'sabar']",P
+"['random', 'news', 'susun', 'main', 'indonesia', 'vs', 'thailand', 'thomas', 'cup', 'duet', 'kevin', 'bagas', 'cnn', 'indonesia']",NT
+"['rekap', 'quarter', 'final', 'thomas', 'cup', 'jpn', 'vs', 'tpe', 'ina', 'vs', 'chn', 'ind', 'vs', 'mas', 'den', 'vs', 'kor', 'jpn', 'ina', 'ind', 'den', 'lolos', 'semifinal']",NT
+"['rekap', 'semifinal', 'uber', 'cup', 'tha', 'vs', 'chn', 'jpn', 'vs', 'kor', 'thomas', 'cup', 'ina', 'vs', 'jpn', 'ind', 'vs', 'den', 'uber', 'cup', 'final', 'chn', 'vs', 'kor', 'thomas', 'cup', 'final', 'ina', 'vs', 'ind']",NT
+"['rekap', 'thomas', 'cup', 'indonesia', 'pasti', 'tiket', 'empat', 'final', 'singkir', 'tuan', 'rumah']",NT
+"['rekap', 'thomas', 'cup', 'indonesia', 'pasti', 'tiket', 'empat', 'final', 'singkir', 'tuan', 'rumah']",NT
+"['rekap', 'thomas', 'cup', 'indonesia', 'pasti', 'tiket', 'empat', 'final', 'singkir', 'tuan', 'rumah']",NT
+"['review', 'final', 'thomas', 'cup', 'partai', 'ginting', 'tampil', 'dominan', 'an', 'menang', 'mudah', 'tp', 'set', 'kdua', 'info', 'kalah', 'arah', 'angin', 'ginting', 'ksulitan', 'st', 'mlai', 'bangkit', 'sblm', 'interval', 'stelah', 'interval india', 'rubah', 'pola', 'main', 'tlmbt', 'diatisipasi', 'ginting']",NT
+"['rexy', 'target', 'juara', 'thomas', 'cup', 'wch', 'bac', 'sc', 'tc', 'tc', 'hantar', 'main', 'muda', 'utk', 'timba', 'alam']",P
+"['semangat', 'tim', 'uber', 'indo', 'lawan', 'german', 'babak', 'sisih', 'grup', 'a', 'thomas', 'uber', 'cup']",P
+"['salah', 'satu', 'naturalisasi', 'yaa', 'mas', 'utk', 'singkir', 'nu', 'india', 'naturalisasi', 'juara', 'thomas', 'cup']",P
+"['sapura', 'pasal', 'msia', 'out', 'thomas', 'cup', 'punde', 'najib']",NT
+"['tonton', 'netral', 'tonton', 'final', 'uber', 'cup', 'senang', 'harap', 'tp', 'klo', 'besok', 'final', 'thomas', 'cup', 'sih', 'indonesia', 'menang', 'cepat', 'bagus', 'biar', 'tdk', 'pingsan', 'tonton']",P
+"['sedih', 'indonesia', 'kalah', 'sedih', 'pikir', 'atleast', 'indonesia', 'thomas', 'cup', 'lepas', 'ni', 'masuk', 'final', 'and', 'malaysia', 'kali', 'qf', 'i', 'really', 'want', 'this', 'generation', 'atleast', 'hold', 'thomas', 'cup', 'edition', 'dah', 'tukar', 'generation', 'dah']",NT
+"['sedih', 'terus', 'ya', 'patah', 'thomas', 'cup', 'patah', 'sea', 'games', 'lepas', 'gagal', 'bilang', 'makasih', 'atlet', 'juang', 'comeback', 'stronger', 'goodluck', 'final', 'women s', 'team', 'i', 'hopefully', 'for', 'a', 'miracle']",P
+"['hebat', 'china', 'sumber', 'daya', 'jd', 'negara', 'kuat', 'dunia', 'bulu', 'tangkis', 'kemarin', 'thomas', 'cup', 'ms', 'nya', 'lawan', 'indonesia', 'main', 'ranking', 'dunia', 'tdk', 'bayang', 'china', 'alami', 'fase', 'sulit']",P
+"['ingin', 'nonton', 'final', 'thomas', 'cup', 'seru', 'kek', 'final', 'uber', 'cup', 'kemarin', 'jantung', 'g', 'kuat', 'kalo', 'bener', 'kek', 'kemarin', 'ya', 'kali', 'tanding', 'kelar', 'rubber', 'sampe', 'stamina', 'jantung', 'kuat']",N
+"['indonesia', 'gak', 'tuh', 'ketemu', 'china', 'empat', 'final', 'thomas', 'cup', 'uber', 'cup', 'china', 'edisi', 'ni', 'hao', 'yinduxiya']",NT
+"['sejarah', 'india', 'final', 'thomas', 'cup', 'kalah', 'denmark', 'semi', 'final']",P
+"['benar', 'bucin', 'dunia', 'badminton', 'ayang', 'aja', 'nggak', 'ditanyaian', 'kabar', 'moga', 'thomas', 'cup', 'betah', 'indonesia', 'selamat', 'juang', 'tim', 'thomas']",P
+"['kelas', 'thomas', 'sm', 'uber', 'cup', 'shuttlecock', 'nya', 'jelek', 'banget', 'ya', 'main', 'bentar', 'udah', 'ganti']",NT
+"['kali', 'indonesia', 'thomas', 'cup', 'kali', 'indonesia', 'lolos', 'semifinal']",NT
+"['selamat', 'personel', 'thomas', 'cup', 'indonesia', 'menang', 'lawan', 'jepang', 'main', 'malam', 'ginting', 'ahsan', 'kevin', 'fajar', 'rian', 'jojo', 'vito', 'moga', 'podium', 'tinggi', 'gapai', 'bismillah']",P
+"['selamat', 'tim', 'thomas', 'cup', 'indonesia', 'kalah', 'korea', 'selatan', 'skor', 'juara', 'group', 'a']",P
+"['selesai', 'drama', 'semifinal', 'ina', 'vs', 'jpn', 'final', 'thomas', 'cup', 'minggu', 'mei', 'wib']",NT
+"['semangat', 'juang', 'tim', 'thomas', 'uber', 'indonesia', 'sempat', 'menteri', 'bumn', 'erick', 'thohir', 'dukung', 'tim', 'thomas', 'uber', 'cup', 'indonesia', 'tanding', 'thailand']",NT
+"['semifinal', 'thomas', 'cup', 'ina', 'vs', 'jpn', 'den', 'vs', 'ind']",NT
+"['moga', 'liat', 'final', 'thomas', 'cup', 'aamiin']",P
+"['moga', 'jantung', 'aman', 'sambut', 'final', 'thomas', 'cup', 'indonesia', 'vs', 'india']",NT
+"['tinggal', 'tim', 'thomas', 'cup', 'indonesia', 'hasil', 'comeback', 'menang', 'lawan', 'tim', 'korea', 'selatan', 'laga', 'tentu', 'menang', 'ms', 'debut', 'indonesia', 'syabda', 'perkasa', 'bawa', 'indonesia', 'hasil', 'lolos', 'empat', 'final', 'peringkat', 'grup', 'a', 'thomas', 'cup']",P
+"['main', 'ketawa', 'joke', 'jia', 'tim', 'tulang', 'punggung', 'eh', 'jia', 'kau', 'skrg', 'tu', 'ape', 'dlcw', 'you', 'ms', 'thomas', 'cup', 'ga', 'waras']",N
+"['thomas', 'cup', 'uber', 'wada', 'acara', 'ya', 'wkwkwkwkwkwkwk', '']",N
+"['sport', 'jantung', 'final', 'thomas', 'cup', 'indonesia', 'vs', 'india', 'sepakbola', 'sea', 'games', 'indonesia', 'vs', 'myanmar']",P
+"['temenin', 'nonton', 'thomas', 'cup']",P
+"['sosok', 'lakshya', 'sen', 'juara', 'thomas', 'cup', 'main', 'andal', 'india', 'prestasi', 'all', 'england', 'baca', 'lengkap']",NT
+"['speechless', 'haru', 'tuh', 'asa', 'kek', 'udah', 'juara', 'thomas', 'cup']",P
+"['streaming', 'olahraga', 'jadwal', 'piala', 'thomas', 'cup', 'jam', 'link', 'live', 'streaming', 'nonton', 'tv', 'online', 'mantra', 'sukabumi', 'mantra', 'sukabumi', 'arenanews']",NT
+"['streaming', 'olahraga', 'jadwal', 'piala', 'thomas', 'cup', 'jam', 'link', 'live', 'streaming', 'nonton', 'tv', 'online', 'mantra', 'sukabumi', 'mantra', 'sukabumi', 'arenanews']",NT
+"['susun', 'main', 'indonesia', 'vs', 'india', 'final', 'thomas', 'cup', 'laga', 'rebut', 'gelar', 'juara', 'ponorogo', 'kini', 'ponorogo', 'kini']",NT
+"['syabda', 'dapet', 'untung', 'masuk', 'tim', 'thomas', 'cup', 'percaya', 'main', 'laga', 'tentu', 'juara', 'grup', 'latih', 'mental', 'duduk', 'krusial', 'good', 'job']",P
+"['syabda', 'loncat', 'loncat', 'thomas', 'cup', 'aja', 'sampe', 'trending']",P
+"['tim', 'ina', 'thomas', 'cup', 'd', 'iri-tulus']",NT
+"['tim', 'thomas', 'indonesia', 'me', 'laju', 'final', 'thomas', 'cup', 'hai', 'sobat', 'bsi', '', 'malam', 'tim', 'thomas', 'indonesia', 'menang', 'semifinal', 'thomas', 'cup', 'tim', 'thomas', 'jepang', 'tim', 'thomas', 'indonesia', 'masuk', 'final', 'temu', 'tim', 'thomas', 'india', 'kuliah', '', 'bsi', 'aja']",NT
+"['nyesek', 'sudirman', 'cup', 'menang', 'thomas', 'cup', 'nyesek', 'thomas', 'cup', 'bawa', 'pulang', 'sudirman', 'cup', 'kaya', 'ygy']",P
+"['struggle', 'thomas', 'cup', 'kevin', 'gideon', 'skrg', 'ginting', 'kalo', 'kevin', 'gideon', 'momentum', 'qf', 'lawan', 'aaron', 'soh', 'moga', 'qf', 'lawan', 'ms', 'china', 'ginting', 'momentum', 'liat', 'gimana', 'vito', 'syabda', 'fight', 'kemarin', 'ginting', 'motivasi', '']",N
+"['tournament', 'je', 'like', 'sudirman', 'cup', 'batc', 'all', 'england', 'thomas', 'cup', 'tournament', 'like', 'german', 'open', 'swiss', 'open', 'hilang']",N
+"['kalah', 'jona', 'fajri', 'jadi', 'ladang', 'pembullyan', 'jg', 'jasa', 'loh', 'sm', 'menang', 'ina', 'thomas', 'cup', 'lupa', 'jg', 'backup', 'ginting', 'in']",P
+"['hibur', 'badminton', 'sea', 'games', 'ni', 'tengok', 'reaction', 'players', 'officials', 'diri', 'sorak', 'thomas', 'cup', 'patut', 'ruang', 'player', 'bangun', 'gerak', 'ni', 'sorak', 'duduk', 'je', 'hahaha']",N
+"['terima', 'kasih', 'tim', 'thomas', 'uber', 'cup', 'indonesia', 'semangat', 'terooosss']",P
+"['terima', 'kasih', 'teman', 'moga', 'tim', 'indonesia', 'lancar', 'final', 'thomas', 'cup', 'besok', 'bendera', 'pbsi', 'kibar', 'puncak', 'bismillah', 'gilir', 'bendera', 'indonesia']",P
+"['terimakasih', 'team', 'indonesia', 'selamat', 'india', 'juara', 'thomas', 'cup', 'comeback', 'stronger', 'guys']",P
+"['kini', 'update', 'ranking', 'bwf', 'shesar', 'hiren', 'rhustavito', 'tentu', 'menang', 'indonesia', 'ajang', 'thomas', 'cup', 'sisca', 'kohl', 'rosalia', 'indah', 'persib', 'terong', 'ajak', 'kakean', 'vito', 'first', 'love', 'ac', 'mil']",NT
+"['semangat', 'f', 'swiss', 'open', 's', 'f', 'korea', 'open', 's', 'f', 'bac', 's', 'f', 'thomas', 'cup', 'level', 'tengah', 'level', 'kontinental', 'regu', 'nga', 'bolos', 'presensi', 'final', 'rawat', 'tren', 'rawat', 'pedenya']",P
+"['thank', 'you', 'rakyat', 'malaysia', 'support', 'indonesia', 'final', 'thomas', 'cup', 'it', 'means', 'a', 'lot', 'to', 'us']",P
+"['thomas', 'uber', 'cup', 'besok', 'tanding', 'panas', 'dukung', 'saksi', 'putri', 'indonesia', 'tanding', 'babak', 'sisih', 'wib', 'match', 'uber', 'cup', 'indonesia', 'vs', 'jerman', 'live', 'inews', 'mnctv']",NT
+"['thomas', 'cup', 'final', 'indonesia', 'vs', 'india']",NT
+"['thomas', 'cup', 'resap', 'gagal', 'kecap']",NT
+"['thomas', 'cup', 'silver', 'medalists', 'team', 'indonesia', 'badminton', 'photo']",NT
+"['thomas', 'cup', 'negara', 'lolos', 'empat', 'final', 'indonesia']",NT
+"['thomas', 'cup', 'menang', 'thailand', 'mohammad', 'ahsan', 'aku', 'lawan', 'mudah']",NT
+"['thomas', 'cup', 'ina', 'capek', 'capek', 'pasang', 'muka', 'galak', 'bl', 'pas', 'liat']",NT
+"['thomas', 'cup', 'indonesia', 'vs', 'thailand', 'ginting', 'kalah', 'kevin-bagas', 'bikin', 'kejut']",NT
+"['thomas', 'cup', 'apakabar', 'yah']",NT
+"['thomas', 'cup', 'juara', 'regu', 'malam', 'hero', 'besok', 'anggap', 'zero', 'komen', 'ya', 'chill', 'aja', 'ngga', 'hakim', 'nyakitin', 'orang']",P
+"['thomas', 'cup', 'runner-up', 'arsenal', 'failed', 'secure', 'top', 'sorry', 'kalo', 'ntar', 'suka', 'gampang', 'darah', 'mood', 'gue', 'rusak', 'sampe', 'tanggal', 'tanggal', 'gaji']",N
+"['thomas', 'cup', 'ahsan', 'kevin', 'menang', 'indonesia', 'unggul']",NT
+"['thomas', 'cup', 'india', 'end', 'malaysia s', 'hope', 'in', 'bangkok']",NT
+"['thomas', 'cup', 'syabda', 'bawa', 'indonesia', 'menang', 'dramatis', 'korea']",NT
+"['thomas', 'cup', 'vito', 'menang', 'indonesia', 'vs', 'korea']",NT
+"['thomas', 'tuchel', 'final', 'carabao', 'cup', 'sesal', 'tim', 'bangga', 'via']",P
+"['thomas', 'cup', 'indonesia', 'jumpa', 'india', 'final']",NT
+"['thomas', 'cup', 'udah', 'habis', 'besok', 'pulang', 'singapore', 'lepas', 'tu', 'hanoi', 'jumpa', 'sea', 'games', 'terima', 'kasih', 'dukung']",P
+"['team', 'thomas', 'cup', 'ind', 'ni', 'mcm', 'lky', 'hahaha']",N
+"['tim', 'thomas', 'cup', 'uber', 'indonsia', 'empat', 'final', 'juara', 'regu', 'bulutangkis', 'moga', 'lanjut', 'semifinal', 'semangat', 'indonesia', 'tim']",P
+"['tim', 'thomas', 'cup', 'indonesia', 'surup', 'real', 'madrid', 'remontada', 'comeback', 'juara', 'grup']",NT
+"['tim', 'thomas', 'cup', 'indonesia', 'balas', 'dendam', 'kalah', 'tim', 'uber', 'china', 'ginting', 'jojo', 'sumbang', 'menang']",P
+"['tim', 'thomas', 'cup', 'indonesia', 'lolos', 'empat', 'final', 'unggul', 'thailand', 'tunggal', 'putra', 'shesar', 'hiren', 'rhustavito', 'tanding', 'lawan', 'sitthikom', 'thammasin']",NT
+"['tim', 'thomas', 'cup', 'indonesia', 'vs', 'tim', 'thomas', 'cup', 'korea', 'rebut', 'juara', 'grup', 'rabu', 'quarterfinal']",NT
+"['tim', 'bulutangkis', 'indonesia', 'rebut', 'lambing', 'supremasi', 'bulutangkis', 'pria', 'thomas', 'cup', 'x', 'kali', 'th']",P
+"['tim', 'india', 'kalah', 'malaysia', 'thomas', 'cup', 'sejati', 'ga', 'kejut', 'banget', 'ya', 'india', 'milik', 'tunggal', 'putra', 'matang', 'ganda', 'putra', 'denmark', 'sulit', 'sf', 'malam']",P
+"['top', 'sports', 'indonesia', 'semifinal', 'thomas', 'cup', 'kevin', 'ahsan', 'viral']",NT
+"['totalenergies', 'bwf', 'thomas', 'and', 'uber', 'cup', 'finals', 'bagas', 'maulana', 'kevin', 'sanjaya', 'sukamuljo', 'peeratchai', 'sukphun', 'pakkapon', 'teeraratsakul', 'in', 'minutes']",NT
+"['totalenergies', 'bwf', 'thomas', 'and', 'uber', 'cup', 'finals', 'group', 'phase', 'a', 'ina', 'vs', 'jpn', 'ws', 'siti', 'sarah', 'azzahra', 'vs', 'riko', 'gunji', 'lost', 'tim', 'uber', 'ina', 'finish', 'ru', 'group', 'a']",NT
+"['totalenergies', 'bwf', 'thomas', 'and', 'uber', 'cup', 'finals', 'group', 'phase', 'a', 'ina', 'vs', 'tha', 'ms', 'shesar', 'hiren', 'rhustavitovs', 'sitthikom', 'thammasin', 'win', 'vito', 'lengkap', 'menang', 'tim', 'ina']",NT
+"['totalenergies', 'bwf', 'thomas', 'and', 'uber', 'cup', 'finals', 'quarter', 'final', 'ina', 'vs', 'chn', 'md', 'mohammad', 'ahsan', 'kevin', 'sanjaya', 'sukamuljo', 'vs', 'liu', 'yu', 'chen', 'ou', 'xuanyi', 'win', 'ahsan', 'kevin', 'tim', 'ina', 'genap', 'unggul']",NT
+"['turnamen', 'bulu', 'tangkis', 'bwf', 'world', 'tour', 'super', 'thailand', 'open', 'resmi', 'gulir', 'selasa', 'mei', 'main', 'indonesia', 'ambil', 'juara', 'thailand', 'open', 'skuad', 'thomas', 'uber', 'cup']",NT
+"['update', 'thomas', 'cup', 'klasemen', 'laga', 'indonesia', 'vs', 'thailand', 'tim', 'putra', 'lolos', 'empat', 'final']",NT
+"['uber', 'china', 'ngalahin', 'indonesia', 'thomas', 'cup', 'balas', 'kalah', 'menang', 'epic']",P
+"['uber', 'cup', 'darah', 'tolong', 'yaa', 'besok', 'thomas', 'cup', 'jan', 'kasihan', 'kasihan', 'jantung', 'segenap', 'jiwa', 'raga']",P
+"['udh', 'ngelupain', 'sedih', 'thomas', 'cup', 'kangen', 'minions']",NT
+"['kali', 'ginting', 'hasil', 'menang', 'lawan', 'momota', 'tanding', 'jalan', 'rubber', 'game', 'momen', 'indonesia', 'thomas', 'cup']",P
+"['gagal', 'ajang', 'thomas', 'uber', 'cup', 'incar', 'emas', 'sea', 'games']",P
+"['video', 'thomas', 'cup', 'malaysia', 'sikat', 'habis', 'inggris']",NT
+"['vito', 'menang', 'indonesia', 'lolos', 'final', 'final', 'final', 'final', 'thanks', 'ginting', 'ahsan', 'kevin', 'jojo', 'fajri', 'vito', 'tim', 'thomas', 'cup', 'indonesia', 'final', 'indonesia', 'vs', 'india']",NT
+"['viral', 'duet', 'kevin', 'bagas', 'juluk', 'kebas', 'thomas', 'cup']",NT
+"['vito', 'pahlawan', 'indonesia', 'final', 'thomas', 'cup']",P
+"['we', 'o', 'we', 'wow', 'salut', 'bilqis', 'prasista', 'kalah', 'peringkat', 'dunia', 'akane', 'yamaguchi', 'set', 'langsung', 'ayo', 'indonesia', 'menang', 'lupa', 'doa', 'dukung', 'tim', 'indonesia', 'thomas', 'cup', 'uber', 'cup', 'ya', 'guys']",P
+"['weh', 'gue', 'gatau', 'kalo', 'td', 'malem', 'fadil', 'jaidi', 'storiin', 'lg', 'nonton', 'thomas', 'cup', 'bikin', 'mantra', 'konyol', 'banget', 'dah', 'poin', 'lawan', 'bilang', 'mantra', 'manjur']",N
+"['wow', 'india', 'thomas', 'cup', 'final', 'mein', 'pehli', 'baar', 'pahunch', 'gaya']",NT
+"['ya', 'allah', 'overthinking', 'banget', 'hasil', 'thomas', 'cup']",N
+"['ya', 'allah', 'gilir', 'final', 'thomas', 'cup', 'gak', 'sih', 'hapus', 'langsung', 'senin', 'aja']",N
+"['ya', 'allahhh', 'thomas', 'cup', 'ngeri', 'banget', '']",N
+"['ya', 'tuhan', 'moga', 'tim', 'thomas', 'cup', 'indonesia', 'menang', 'aminn']",P
+"['yeay', '', 'senior', 'asg', 'sm', 'jojo', 'mh', 'gitu', 'meuleu', 'thomas', 'cup', 'taun', 'main', 'tunggal', 'jd', 'tentu', '', 'rese', 'ihh', 'lama', 'nih', 'a', 'kipo', '']",N
+"['yuk', 'reply', 'ucap', 'terimakasih', 'tim', 'thomas', 'cup', 'kevin', 'babah', 'rian', 'vito', 'kojeng', 'tegar', 'coaches', 'serta', 'officials']",P
+"['zaiyi', 'timba', 'alam', 'thomas', 'cup']",NT
+"['semifinal', 'thomas', 'uber', 'cup', 'recap']",NT
+"['thomas', 'cup', 'sore', 'nonton', 'laga', 'denmark', 'kontra', 'prancis', 'main', 'game', 'rasmus', 'gemke', 'vs', 'arnaud', 'merkle', 'nonton', 'nya', 'bareng', 'anak', '', 'sempet', 'nyeletuk', 'anak', '', 'cont']",NT
+"['ga', 'nang', 'lost', 'thomas', 'cup', 'ko', 'hendra', 'statement', 'gin']",N
+"['nak', 'indonesia', 'menang', 'thomas', 'cup', 'but', 'my', 'instinct', 'loudly', 'mentioned', 'india', 'menang', 'it s', 'right', 'now', 'nak', 'all', 'the', 'best', 'team', 'indonesia', 'thomas', 'cup', 'i m', 'rooting', 'for', 'you']",P
+"['arsenal', 'iki', 'mending', 'fokus', 'o', 'thomas', 'cup']",N
+"['besok', 'thomas', 'cup', 'china', 'ms', 'capcipcup', 'aka', 'tumbal', 'ms', 'ms', 'the', 'danes', 'china', 'kalo', 'nyolong', 'ms', 'poin', 'md', 'wajib', 'menang']",NT
+"['sama', 'gitu', 'tim', 'uber', 'thomas', 'cup', 'ina', 'ketemu', 'china', 'ekwk']",NT
+"['blf', 'momogi', 'world', 'tour', 'momogi', 'thomas', 'cup', 'mau', 'ketemu', 'team', 'event', 'gamau', 'tour', 'individu']",NT
+"['blf', 'ngikutin', 'jejak', 'ayah', 'ibu', 'bilqis', 'kayak', 'didongengin', 'thomas', 'uber', 'cup', 'deh', 'hehe', 'jalan', 'semangat', 'bilqis']",P
+"['blf', 'the', 'day', 'final', 'thomas', 'cup', 'mutualan', 'dlu', 'yuu', 'biar', 'tl', 'nya', 'rame', 'like', 'aja', 'yaa', 'lupa', 'follback', 'yaa']",NT
+"['blom', 'sembuh', 'luka', 'thomas', 'cup', 'dah', 'muncul', 'luka', 'sea', 'games', 'blf']",N
+"['nggak', 'ya', 'ijin', 'pulang', 'duluan', 'nonton', 'final', 'thomas', 'cup', 'anjr']",P
+"['btw', 'ges', 'sejarah', 'mah', 'batc', 'runner', 'up', 'thomas', 'cup', 'silver', 'seag', 'bronze', 'yaampun', 'indah', 'sejarah']",P
+"['comeback', 'menang', 'wehhh', 'lawan', 'team', 'je', 'main', 'thomas', 'cup', 'last', 'week']",P
+"['day', 'thomas', 'uber', 'cup', 'selesai', 'christo', 'popov', 'layak', 'man', 'of', 'the', 'match', 'ini']",P
+"['dear', 'moots', 'sorry', 'bgt', 'yaa', 'klo', 'spam', 'thomas', 'cup', 'mulu', 'dr', 'kmaren', '', 'gmana', 'yaa', 'nama', 'jg', 'lg', 'hecticntar', 'malem', 'jg', 'spam', 'timnas', 'nih', 'kek', 'ekwk', 'di-mute', '', 'thx']",NT
+"['thomas', 'cup', 'harap', 'ms', 'md', 'md', 'sea', 'games', 'harap', 'ms', 'md', 'ms']",P
+"['kabar', 'anggota', 'grup', 'b', 'c', 'd', 'thomas', 'cup', 'tidur', 'pulas', '', 'grup', 'a', 'be', 'lyke', 'bacddd']",N
+"['final', 'thomas', 'cup']",NT
+"['final', 'thomas', 'cup', 'bl', 'ind', 'ajak', 'gaduh', 'dgn', 'bl', 'ina', 'kena', 'hadap', 'bl', 'mas', 'jugak']",N
+"['fyp', 'tiktokku', 'isi', 'menang', 'thomas', 'cup', '', 'nang', 'bgt', 'pagi', 'moga', 'jadi', 'ulang', 'aamiin']",P
+"['gatau', 'y', 'kayak', 'gk', 'terima', 'india', 'juara', 'thomas', 'cup']",N
+"['ginting', 'dah', 'prediksiin', 'ye', 'bund', 'btw', 'syabda', 'jarang', 'sempat', 'tanding', 'tanding', 'thomas', 'cup', 'keluarga', 'nonton', 'pasti', 'senang']",NT
+"['goodluck', 'indonesia', 'moga', 'menang', 'thomas', 'cup']",P
+"['gua', 'ngerasa', 'thomas', 'cup', 'drama', 'drama']",P
+"['hahahaha', 'final', 'thomas', 'cup', 'ya', 'posisi', 'indonesia', 'serba', 'salah', 'moga', 'menang', 'lawan', 'china', 'untung', 'nggak', 'ketemu', 'india', 'hahaha', 'ms', 'rem', 'md', 'nggak', 'tebak']",P
+"['jadwal', 'nonton', 'bgt', 'motogp', 'seagames', 'voli', 'thomas', 'cup']",NT
+"['indo', 'thomas', 'uber', 'cup', 'ketemu', 'china', 'mulu', 'dah']",N
+"['indonesia', 'kalah', 'thomas', 'cup', 'ga', 'ea', 'ea', 'eeeaaa']",N
+"['mah', 'trending', 'repackage', 'drimis', 'banting', 'thomas', 'uber', 'cup', 'wkwk']",N
+"['kaget', 'gw', 'india', 'masuk', 'final', 'thomas', 'cup']",NT
+"['fadil', 'partner', 'kevin', 'thomas', 'cup', 'menang', 'woyy']",P
+"['liat', 'orang', 'diem', 'murung', 'lemas', 'daya', 'bl', 'ina', 'abis', 'nonton', 'thomas', 'cup']",N
+"['tolol', 'gw', 'semalem', 'pulang', 'kerja', 'cepet-cepet', 'cepet', 'makan', 'cepet', 'mandi', 'niat', 'mo', 'nonton', 'final', 'thomas', 'cup', 'buka', 'tv', 'makjreng', 'gw', 'inget', 'kemaren', 'sabtu']",N
+"['beli', 'buku', 'thomas', 'cup', 'deh', 'gue', 'lunas', 'album', 'bts']",P
+"['ms', 'ms', 'ms', 'malaysia', 'bismillah', 'juara', 'thomas', 'cup']",P
+"['my', 'mom', 'said', 'dah', 'allah', 'menang', 'usaha', 'menang', 'jugak', 'maybe', 'ni', 'thomas', 'cup', 'rezeki', 'insyaallah', 'we', 'get', 'thomas', 'cup', 'and', 'olympic', 'gold', 'medal', 'aminnn']",P
+"['gin', 'ahsan', 'setiawan', 'deketan', 'enak', 'liat', 'tp', 'mas', 'vito', 'u', 'thomas', 'cup', 'kokoh', 'ahsan', 'sih']",P
+"['ni', 'gw', 'abis', 'liat', 'final', 'thomas', 'cup', 'trs', 'nonton', 'arsenal', 'yaallah']",N
+"['nunggu', 'line', 'up', 'nya', 'thomas', 'cup', '']",NT
+"['prediksi', 'line', 'up', 'thomas', 'cup', 'ms', 'ginting', 'ms', 'jojo', 'ms', 'masvit', 'md', 'fajri', 'kevin', 'babah', 'md', 'fajri', 'bakri', 'mau', 'ms', 'turun', 'utk', 'coba', 'lapang', 'n', 'atmosphere', 'kaya', 'coach', 'herry', 'bilang', 'utk', 'md', 'berani', 'kalo', 'turunin', 'sabda', 'tegar']",NT
+"['prediksi', 'line', 'up', 'thomas', 'cup', 'besok', 'ms', 'jonatan', 'ms', 'vito', 'ms', 'syabda', 'md', 'fajri', 'md', 'babah', 'fikri']",NT
+"['santai', 'tegang', 'nonton', 'final', 'thomas', 'cup']",P
+"['semalem', 'udh', 'bobo', 'saking', 'ngantuk', 'nya', 'alhamdulillah', 'thomas', 'cup', 'final']",P
+"['semangat', 'tim', 'thomas', 'cup', 'final', 'moga', 'match', 'baik', 'selesai', 'cedera', 'apa', 'yaaah', 'bismillah', 'jd', 'winner', 'but', 'rezeki', 'runner', 'up', 'ya', 'it s', 'ok']",P
+"['semi', 'final', 'thomas', 'cup', 'india', 'vs', 'denmark', 'indonesia', 'vs', 'jepang', 'final', 'indonesia', 'menang', 'lawan', 'denmark', 'moga', 'jadi', 'ulang', 'lg']",P
+"['udah', 'deg-degan', 'final', 'thomas', 'cup', 'bang']",P
+"['so', 'thomas', 'cup', 'harini', 'nicee', 'clash', 'meeting']",P
+"['takut', 'bgt', 'final', 'thomas', 'cup', 'udah', 'kayak', 'w', 'main', 'aj', 'pdhl', 'cm', 'nonton']",NT
+"['went', 'to', 'that', 'ultraman', 'acc', 'and', 'baca', 'quote', 'about', 'badminton', 'i', 'am', 'speechless', 'tu', 'bodoh', 'bodoh', 'ekkk', '', 'lemme', 'bookmark', 'that', 'quote', 'tu', 'when', 'malaysia', 'won', 'the', 'thomas', 'cup', 'imma', 'quote', 'that', 'tweet', 'idga']",N
+"['bangga', 'main', 'thomas', 'cup', 'jarang', 'sempat', 'tanding', 'tanding', 'thomas', 'cup', 'you ve', 'done', 'it', 'daa', 'you ve', 'done', 'well']",P
+"['malaya', 'kabung', 'juara', 'thomas', 'cup', 'tambah', 'partisipasi', 'indonesia', 'anggap', 'congkel', 'dominasi', 'tim', 'indonesia', 'gagal', 'pergi', 'tiada', 'biaya', 'talang', 'hutang', 'sumbang', 'publik']",N
+"['lu', 'orang', 'nak', 'malaysia', 'team', 'menang', 'japan', 'team', 'in', 'thomas', 'cup', 'esok', 'malam', 'cepat', 'retweet', '']",NT
+"['indonesia', 'menang', 'thomas', 'cup', 'sea', 'games']",P
+"['india', 'has', 'beaten', 'indonesia', 'to', 'win', 'its', 'maiden', 'title', 'lakshya', 'sen', 'satwik-chirag', 'kidambi', 'srikanth', 'highlights']",NT
+"['tuan', 'nyonya', 'shesar', 'hiren', 'rhustavito', 'jago', 'indonesia', 'tentu', 'x', 'menang', 'tim', 'indonesia', 'thomas', 'cup']",P
+"['nnton', 'thomas', 'cup', 'nnton', 'nya', 'mana']",NT
+"['hasil', 'semifinal', 'japan', 'korea', 'thomas', 'uber', 'cup', 'tim', 'uber', 'japan', 'singkir']",NT
